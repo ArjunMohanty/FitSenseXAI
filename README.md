@@ -1,0 +1,1 @@
+FitSenseXAI is an an AI-powered size chart generator to predict body sizes based on previous purchase history and preferences. Utilized SVM for data clustering and decision trees for generating size charts, with hyperparameter tuning to improve accuracy. 
